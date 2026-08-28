@@ -52,3 +52,32 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+# Visual Studio
+.vs/
+
+# Build folders
+out/
+build/
+build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Qt Creator / Qt user files
+*.user
+*.user.*
+.qtcreator/
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
